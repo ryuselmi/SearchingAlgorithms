@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchingAlgorithms", "SearchingAlgorithms.csproj", "{8CD263AC-09E3-4668-BEE0-F3FB47FC7B64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchingAlgorithmsTest", "..\SearchingAlgorithmsTest\SearchingAlgorithmsTest.csproj", "{F4BB6CDD-B103-44CB-B7C8-E9E470B98751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8CD263AC-09E3-4668-BEE0-F3FB47FC7B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CD263AC-09E3-4668-BEE0-F3FB47FC7B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CD263AC-09E3-4668-BEE0-F3FB47FC7B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BB6CDD-B103-44CB-B7C8-E9E470B98751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BB6CDD-B103-44CB-B7C8-E9E470B98751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BB6CDD-B103-44CB-B7C8-E9E470B98751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BB6CDD-B103-44CB-B7C8-E9E470B98751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
